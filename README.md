@@ -13,22 +13,17 @@ Index.php will have a splash page with an Image
 
 **Pages:**
 
-Index.php
+*Index.php*
 
-Labs.foxfusion.net
+*Labs.foxfusion.net*
 
-Dataneer.foxfusion.net - 
+*Dataneer.foxfusion.net -* 
 
-Hamburger Menu - 
+Ai.foxfusion.net - 
 
-*AirFlow*
+scrape.foxfusion.net - 
 
-*Spark*
-
-*Jupyter Notebook*
-
-*PHP Admin*
-
+library.foxfusion.net - 
 
 
 
