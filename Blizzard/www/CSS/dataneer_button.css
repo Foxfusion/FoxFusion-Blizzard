@@ -1,0 +1,48 @@
+/*# File Name: navbar.css
+# Create Date: 12/20/2023
+# Modified Date: 12/20/2023
+# Author: William Fox
+# Description: Buttons for DataNeer  - Airflow - Spark - Jupyter Notebook
+*/
+
+
+
+/* Desktop Nav */
+
+
+
+.airflow{
+    font-size: 18px;
+    text-decoration: none;
+    color: #6e6e73;
+    border: #006666 1px solid;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-top: 10px;
+
+
+}
+
+.spark {
+    font-size: 18px;
+    text-decoration: none;
+    color: #6e6e73;
+    border: #006666 1px solid;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.jupyter{
+    font-size: 18px;
+    text-decoration: none;
+    color: #6e6e73;
+    border: #006666 1px solid;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+nav .desktop-nav li a:hover {
+    opacity: 1;
+
+}

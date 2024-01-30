@@ -1,0 +1,56 @@
+:root {
+    --primary-color: #004242;
+    --overlay-color: #b0b8b8;
+    --menu-speed: 0.75s;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.4;
+}
+
+.container {
+    max-width: 960px;
+    margin: auto;
+    overflow: hidden;
+    padding: 0 3rem;
+}
+
+.showcase {
+    background-color: var(--primary-color);
+    color: #CCCCCC;
+
+}
+
+.showcase:before {
+
+}
+
+.showcase h1 {
+    font-size: 4rem;
+}
+.showcase p {
+    font-size: 1.3rem;
+}
+
+.btn {
+    display: inline-block;
+    border: none;
+    background-color: var(--primary-color);
+    color: #006666;
+    padding: 0.75rem 1.5rem;
+    margin-top: 1rem;
+    text-decoration: none;
+    transition: opacity 1s ease-in;
+}
+
+.btm:hover{
+    opacity: 0.7;
+}

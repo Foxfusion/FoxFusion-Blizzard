@@ -1,0 +1,41 @@
+/*# File Name: style.css
+# Create Date: 12/06/2023
+# Modified Date: 12/11/2023
+# Author: William Fox
+# Description: CSS Page for Foxfusion.net - Style
+*/
+
+*{
+    margin:0;
+    padding:0;
+}
+
+body {
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    font-size: 17px;
+    line-height: 1.5;
+}
+
+
+
+#showcase{
+    background-image:url('../Images/Home/ML5.png');
+    background-size:cover;
+    background-position: center;
+    height:100vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    text-align: center;
+    padding: 0 20px;
+}
+
+
+#showcase h1{
+    font-size: 50px;
+    line-height:1.2;
+}
+

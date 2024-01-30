@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="644d9018-5677-4725-889d-a09fec8d5d2a" name="FoxFusion" url="http://foxfusion.net">
+        <fileTransfer host="foxfusion.net" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="d8678ccf-75db-4d5e-be0a-31dee22d7353" name="FoxLabs" url="http://24.144.88.236">
+        <fileTransfer rootFolder="/home/wgfox" host="24.144.88.236" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

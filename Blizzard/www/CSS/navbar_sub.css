@@ -1,0 +1,67 @@
+/*# File Name: navbar_sub.css
+# Create Date: 12/12/2023
+# Modified Date: 12/12/2023
+# Author: William Fox
+# Description: navigational Bar
+*/
+
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Desktop Nav */
+body {
+    font-family: "Inter", sans-serif;
+    font-weight: 300;
+    overflow-y: scroll;
+    text-decoration: none;
+
+}
+
+.nav-container {
+    background: rgba(0, 0, 0, 0.8);
+    height: 44px;
+    font-family: "inter", sans-serif;
+    font-weight: 300;
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+
+
+
+}
+
+.nav-container nav {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 0 8px;
+    height: 100%;
+
+}
+
+nav .desktop-nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    list-style: none;
+}
+
+nav .desktop-nav li a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 14px;
+    opacity: 0.8;
+    transition: opacity 400ms;
+
+}
+
+nav .desktop-nav li a:hover {
+    opacity: 1;
+
+}
