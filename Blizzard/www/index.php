@@ -4,7 +4,7 @@
      Create Date: 12/08/2023
     Modified Date: 12/11/2023
     Author: William Fox
-    Description: Ma9n Page  - for Foxfusion.net
+    Description: Main Page  - for Foxfusion.net
 */
 
 ?>
