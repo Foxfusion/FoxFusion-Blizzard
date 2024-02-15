@@ -26,4 +26,9 @@ scrape.foxfusion.net -
 library.foxfusion.net - 
 
 
+DataNeer page  has the following  
+Airflow
+Spark
+PhpMyadmin
+Jupyter Notebook
 
